@@ -54,7 +54,7 @@ Tested under controlled CUDA synchronization splits (100 measured cycles):
 
 ---
 
-## 🚀 How to Run (Streamlit App)
+## 🚀 How to Run
 
 Notebook link: 
 https://colab.research.google.com/drive/1oRCz3R4UoBfl7d71O_G8E1AS2BfSYLTj?usp=sharing
