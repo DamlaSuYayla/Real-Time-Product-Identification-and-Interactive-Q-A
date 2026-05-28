@@ -56,8 +56,5 @@ Tested under controlled CUDA synchronization splits (100 measured cycles):
 
 ## 🚀 How to Run (Streamlit App)
 
-You can launch the interactive interface directly from your environment:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/edge-barcode-reader-vip.git](https://github.com/yourusername/edge-barcode-reader-vip.git)
+Notebook link: 
+https://colab.research.google.com/drive/1oRCz3R4UoBfl7d71O_G8E1AS2BfSYLTj?usp=sharing
